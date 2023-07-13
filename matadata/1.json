@@ -1,0 +1,12 @@
+{
+  "name": "Balancer",
+  "description": "Understands various industries and all business models, excelling in a wide range of quests.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQ1vxdn5LMVfGH9A2jU1phma3Hfux93tmmVkyG9ffpQob/1.png",
+  "external_url": "https://www.decentralizedpro.io/",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Generalist"
+    }
+  ]
+}

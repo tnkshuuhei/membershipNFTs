@@ -1,0 +1,12 @@
+{
+  "name": "Accountant",
+  "description": "A professional utilizing economic and financial data for efficient economic activities, investment strategies, financial analysis, and strategic decision-making to achieve maximum efficiency and profitability.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQ1vxdn5LMVfGH9A2jU1phma3Hfux93tmmVkyG9ffpQob/3.png",
+  "external_url": "https://www.decentralizedpro.io/",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Generalist"
+    }
+  ]
+}

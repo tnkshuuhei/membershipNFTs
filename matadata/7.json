@@ -1,0 +1,12 @@
+{
+  "name": "Guild Association Member",
+  "description": "Individuals who resonate with D's vision and consider themselves as one of the means to achieve D's growth.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQ1vxdn5LMVfGH9A2jU1phma3Hfux93tmmVkyG9ffpQob/7.png",
+  "external_url": "https://www.decentralizedpro.io/",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "NPC"
+    }
+  ]
+}

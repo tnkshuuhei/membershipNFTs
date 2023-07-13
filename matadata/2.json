@@ -1,0 +1,12 @@
+{
+  "name": "Magician",
+  "description": "A professional who understands the needs of service customers and devises and executes effective marketing strategies.",
+  "image": "https://gateway.pinata.cloud/ipfs/QmQ1vxdn5LMVfGH9A2jU1phma3Hfux93tmmVkyG9ffpQob/2.png",
+  "external_url": "https://www.decentralizedpro.io/",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Generalist"
+    }
+  ]
+}

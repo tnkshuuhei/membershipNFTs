@@ -1,0 +1,12 @@
+{
+  "name": "Quest Board Member (QBM)",
+  "description": "Acts as a director, responsible for requirements gathering and definition of quests and tasks, progress management for sales roles, and progress management for quests and tasks during operations.",
+  "image": "[Link to the image for Quest Board Member (QBM)]",
+  "external_url": "https://www.decentralizedpro.io/",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "NPC"
+    }
+  ]
+}
