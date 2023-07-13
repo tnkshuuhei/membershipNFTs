@@ -86,10 +86,12 @@ contract MembershipNFT is ERC1155, Ownable, AccessControl {
                 )
             );
     }
+
     function setTokenUri(uint256 tokenId, string memory _uri) public onlyAdmin {
         require(bytes(_uris[tokenId]).length == 0, "Cannot set uri twice");
         _uris[tokenId] = _uri;
     }
+
     function _beforeTokenTransfer(
         address,
         address from,
