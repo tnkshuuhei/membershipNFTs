@@ -1,14 +1,11 @@
-## Getting Started
-
-Create a project using this example:
-
-```bash
-npx thirdweb create --contract --template hardhat-javascript-starter
-```
-
-You can start editing the page by modifying `contracts/Contract.sol`.
-
-To add functionality to your contracts, you can use the `@thirdweb-dev/contracts` package which provides base contracts and extensions to inherit. The package is already installed with this project. Head to our [Contracts Extensions Docs](https://portal.thirdweb.com/contractkit) to learn more.
+## Referred to and big thanks to
+- https://docs.openzeppelin.com/contracts/3.x/erc1155
+- https://docs.openzeppelin.com/contracts/3.x/access-control
+- https://thirdweb.com/
+- https://www.pinata.cloud/
+- https://docs.opensea.io/docs/metadata-standards
+- https://ethereumnavi.com/2023/01/28/how-to-create-sbt/
+- https://app.bunzz.dev/module-templates/9b994ee8-9522-4b94-a96a-36b6d04dfb05?version=latest
 
 ## Building the project
 
